@@ -1,0 +1,32 @@
+A. AtCoder abc043_a – Children and Candies (ABC Edit) => (N*(N+1))/2 => Done
+🔗 https://atcoder.jp/contests/abc043/tasks/abc043_a
+
+B. AtCoder abc218_b – qwerty => Done
+🔗 https://atcoder.jp/contests/abc218/tasks/abc218_b
+
+C. CodeForces 467A – George and Accommodation
+🔗 https://codeforces.com/problemset/problem/467/A
+
+D. CodeForces 282A – Bit++
+🔗 https://codeforces.com/problemset/problem/282/A
+
+E. CodeForces 231A – Team
+🔗 https://codeforces.com/problemset/problem/231/A
+
+F. CodeForces 791A – Bear and Big Brother
+🔗 https://codeforces.com/problemset/problem/791/A
+
+G. CodeForces 977A – Wrong Subtraction
+🔗 https://codeforces.com/problemset/problem/977/A
+
+H. CodeForces 263A – Beautiful Matrix
+🔗 https://codeforces.com/problemset/problem/263/A
+
+I. CodeForces 492A – Vanya and Cubes
+🔗 https://codeforces.com/problemset/problem/492/A
+
+J. CodeForces 158B – Taxi
+🔗 https://codeforces.com/problemset/problem/158/B
+
+K. CodeForces 122A – Lucky Division
+🔗 https://codeforces.com/problemset/problem/122/A
